@@ -27,5 +27,9 @@
     }
     .text{
         font-size: 1.125rem;
+        width: 300px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 40px 0px 0px;
     }
 }
