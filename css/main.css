@@ -1,0 +1,22 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-top: 150px;
+}
+.container:hover{
+    box-shadow: 25px 25px 25px 25px #393939;
+    cursor: pointer;
+}
+.text{
+    color: #fff;
+    text-shadow: 10px 10px 10px 10px #000000;
+    font-weight: 700;
+    text-align: center;
+    font-size: 3rem;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
